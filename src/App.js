@@ -29,7 +29,7 @@ function App() {
     
   }, []);
 
-// Return statement when user is logged in
+
   return (
     <div className="App">
       <header className="App-header">
